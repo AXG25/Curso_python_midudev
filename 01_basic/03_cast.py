@@ -1,0 +1,10 @@
+print(type(int('100')))
+print(5 + int("2"))
+print("5" + str(2))
+print(int(3.1416))
+print(float("3.1416"))
+print(bool(0))# el unico valor numerico que puede dar como resultado el 0
+print(bool(1))
+print(bool(""))
+print(bool(" "))
+print(bool("False"))
